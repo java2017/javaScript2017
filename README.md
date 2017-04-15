@@ -15,3 +15,14 @@ If you're using Windows you can now install all node-gyp dependencies with singl
 and then install the package
 
  $ npm install --global node-gyp
+
+##### Command Prompt
+1. RM / RMDIR --- delete folder 
+RMDIR [/S] [/Q] [drive:]path
+RD [/S] [/Q] [drive:]path
+
+    /S      Removes all directories and files in the specified directory
+            in addition to the directory itself.  Used to remove a directory
+            tree.
+
+    /Q      Quiet mode, do not ask if ok to remove a directory tree with /S
