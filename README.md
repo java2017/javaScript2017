@@ -7,6 +7,7 @@
 
 ##### Graphics with Node.js & Fabric.js
 1. [Samples Fabricjs](http://fabricjs.com/test/node/)
+1. [Install Fabric.js](https://www.npmjs.com/package/fabric)
 * dependentcy installation
 If you're using Windows you can now install all node-gyp dependencies with single command:
 
