@@ -8,6 +8,9 @@
 ##### Graphics with Node.js & Fabric.js
 1. [Samples Fabricjs](http://fabricjs.com/test/node/)
 1. [Install Fabric.js](https://www.npmjs.com/package/fabric)
+1. [Creating and Handling Forms in Node.js](https://www.sitepoint.com/creating-and-handling-forms-in-node-js/)
+1. [Fabric & Node Canvas](http://www.javascriptexamples.info/code/fabric%20node%20canvas/)
+1. [Express Form](https://www.npmjs.com/package/express-form)
 * dependentcy installation
 If you're using Windows you can now install all node-gyp dependencies with single command:
 
