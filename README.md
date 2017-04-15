@@ -16,6 +16,8 @@ If you're using Windows you can now install all node-gyp dependencies with singl
 and then install the package
 
  $ npm install --global node-gyp
+ 
+1. Install node-gyp dependentcy (https://github.com/Automattic/node-canvas/wiki/Installation---Windows#2-installing-gtk-2)
 
 ##### Command Prompt
 1. RM / RMDIR --- delete folder 
