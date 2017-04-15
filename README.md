@@ -11,6 +11,13 @@
 1. [Creating and Handling Forms in Node.js](https://www.sitepoint.com/creating-and-handling-forms-in-node-js/)
 1. [Fabric & Node Canvas](http://www.javascriptexamples.info/code/fabric%20node%20canvas/)
 1. [Express Form](https://www.npmjs.com/package/express-form)
+1. [Codebrace](https://closebrace.com/tutorials)
+1. [Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
+1. [Authenticating Node.js Applications With Passport](https://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619)
+
+
+
+
 * dependentcy installation
 If you're using Windows you can now install all node-gyp dependencies with single command:
 
