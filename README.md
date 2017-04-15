@@ -18,6 +18,7 @@ and then install the package
 
 ##### Command Prompt
 1. RM / RMDIR --- delete folder 
+
 RMDIR [/S] [/Q] [drive:]path
 RD [/S] [/Q] [drive:]path
 
