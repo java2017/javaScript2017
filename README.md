@@ -9,6 +9,7 @@
 1. JavaScript (https://www.w3schools.com/js/default.asp)
 1. AngularJS (https://www.w3schools.com/angular/default.asp)
 1. Bootstrap (https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
+1. Mean Stack (https://www.youtube.com/watch?v=kHV7gOHvNdk)
 
 ##### Graphics with Node.js & Fabric.js
 1. [Samples Fabricjs](http://fabricjs.com/test/node/)
