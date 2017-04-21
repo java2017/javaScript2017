@@ -17,9 +17,9 @@
 
 ##### How to run HTML in node.js
 Install: 
-npm install -g http-server
+*npm install -g http-server
 After installation cd into your project folder and run 
-__http-server -o 
+*http-server -o
 -o is to open browser to the page.
 
 
