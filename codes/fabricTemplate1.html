@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://rawgit.com/kangax/fabric.js/master/dist/fabric.js"></script>
+</head>
+<body>
+<canvas id="c" width="800" height="800" style="border:1px solid #ccc"></canvas>
+<img src="helloworld.png" id="my-image">
+<script>
+    (function() {
+
+        var canvas = new fabric.Canvas('c');
+        var circle = new fabric.Circle({
+            radius: 20, fill: 'green', left: 100, top: 100
+        });
+        var triangle = new fabric.Triangle({
+            width: 20, height: 30, fill: 'blue', left: 50, top: 50
+        });
+
+        var rect = new fabric.Rect();
+        rect.set({ width: 10, height: 20, fill: '#f55', opacity: 0.7 });
+        rect.set('fill', 'red');
+        rect.set({ strokeWidth: 5, stroke: 'rgba(100,200,200,0.5)' });
+        rect.set('angle', 15).set('flipY', true);
+
+
+        var imgElement = document.getElementById('my-image');
+        var imgInstance = new fabric.Image(imgElement, {
+            left: 200,
+            top: 200,
+            angle: 0,
+            opacity: 0.85
+        });
+
+        canvas.add(circle, triangle, rect,imgInstance);
+        canvas.remove(circle);
+
+    })();
+</script>
+</body>
+</html>
