@@ -12,6 +12,7 @@
 1. Mean Stack (https://www.youtube.com/watch?v=kHV7gOHvNdk)
 
 ##### Graphics with Node.js & Fabric.js
+1. [Fabric Template in HTML file](https://github.com/kangax/fabric.js/wiki/Fabric.js-template-html-file)
 1. [Samples Fabricjs](http://fabricjs.com/test/node/)
 1. [Install Fabric.js](https://www.npmjs.com/package/fabric)
 1. [Creating and Handling Forms in Node.js](https://www.sitepoint.com/creating-and-handling-forms-in-node-js/)
