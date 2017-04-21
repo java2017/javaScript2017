@@ -5,6 +5,11 @@
 1. [Javascript Syntax](https://github.com/java2017/javaScript2017/blob/master/books/JavaScript.pdf)
 1. [Tools](https://designshack.net/articles/css/5-online-playgrounds-for-html-css-and-javascript-compared/)
 
+##### References
+1. JavaScript (https://www.w3schools.com/js/default.asp)
+1. AngularJS (https://www.w3schools.com/angular/default.asp)
+1. Bootstrap (https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
+
 ##### Graphics with Node.js & Fabric.js
 1. [Samples Fabricjs](http://fabricjs.com/test/node/)
 1. [Install Fabric.js](https://www.npmjs.com/package/fabric)
