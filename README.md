@@ -15,7 +15,12 @@
 1. [Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 1. [Authenticating Node.js Applications With Passport](https://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619)
 
-
+##### How to run HTML in node.js
+Install: 
+npm install -g http-server
+After installation cd into your project folder and run 
+__http-server -o 
+-o is to open browser to the page.
 
 
 * dependentcy installation
