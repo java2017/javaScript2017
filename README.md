@@ -25,7 +25,7 @@ After installation cd into your project folder and run
 -o is to open browser to the page.
 
 
-* dependentcy installation
+##### dependentcy installation
 If you're using Windows you can now install all node-gyp dependencies with single command:
 
  $ npm install --global --production windows-build-tools
