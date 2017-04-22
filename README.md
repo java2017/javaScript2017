@@ -6,6 +6,9 @@
 1. [Tools](https://designshack.net/articles/css/5-online-playgrounds-for-html-css-and-javascript-compared/)
 
 ##### References
+1. Mean Stack Server (https://devcenter.heroku.com/articles/getting-started-with-nodejs#push-local-changes)
+ * login : watcom@hotmail.com , pass = he....@......
+1. Ecommerce Framework (https://docs.reactioncommerce.com/reaction-docs/master/dashboard)
 1. JavaScript (https://www.w3schools.com/js/default.asp)
 1. AngularJS (https://www.w3schools.com/angular/default.asp)
 1. Bootstrap (https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
